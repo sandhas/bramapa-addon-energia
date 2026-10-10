@@ -1,0 +1,66 @@
+spec_version = 0
+
+[addon]
+id = "energia"
+name = "Energia elétrica — tarifas e capacidade instalada"
+version = "0.1.0"
+license = "ODbL-1.0"
+authors = ["Bramapa contributors"]
+description = "Tarifa residencial (B1 convencional, R$/MWh sem tributos, média simples das concessionárias) e capacidade instalada de geração por UF e para o Brasil, a partir dos dados abertos da ANEEL. Primeiro addon da comunidade mantido fora do bramapa-data."
+depends = []
+
+[[properties]]
+id = "tarifa_residencial"
+entity_type = "estado"
+name = "Tarifa residencial (B1 convencional)"
+unit = "R$/MWh"
+dtype = "f64"
+periodicity = "anual"
+source = "ANEEL — Tarifas de aplicação das distribuidoras (TUSD + TE, sem tributos); média simples das concessionárias da UF"
+source_url = "https://dadosabertos.aneel.gov.br/dataset/tarifas-distribuidoras-energia-eletrica"
+file = "data/estado_tarifa_residencial.csv"
+
+[[properties]]
+id = "tarifa_residencial"
+entity_type = "pais"
+name = "Tarifa residencial (B1 convencional)"
+unit = "R$/MWh"
+dtype = "f64"
+periodicity = "anual"
+source = "ANEEL — Tarifas de aplicação das distribuidoras (TUSD + TE, sem tributos); média simples das concessionárias do país"
+source_url = "https://dadosabertos.aneel.gov.br/dataset/tarifas-distribuidoras-energia-eletrica"
+file = "data/pais_tarifa_residencial.csv"
+
+[[properties]]
+id = "capacidade_instalada"
+entity_type = "estado"
+name = "Capacidade instalada de geração"
+unit = "MW"
+dtype = "f64"
+periodicity = "anual"
+source = "ANEEL — Capacidade Instalada por Unidade da Federação (posição de dezembro)"
+source_url = "https://dadosabertos.aneel.gov.br/dataset/capacidade-instalada-por-unidade-da-federacao"
+file = "data/estado_capacidade_instalada.csv"
+
+[[properties]]
+id = "capacidade_instalada"
+entity_type = "pais"
+name = "Capacidade instalada de geração"
+unit = "MW"
+dtype = "f64"
+periodicity = "anual"
+source = "ANEEL — Capacidade Instalada por Unidade da Federação (soma das 27 UFs, posição de dezembro)"
+source_url = "https://dadosabertos.aneel.gov.br/dataset/capacidade-instalada-por-unidade-da-federacao"
+file = "data/pais_capacidade_instalada.csv"
+
+[[render]]
+property = "estado/tarifa_residencial"
+kind = "choropleth"
+ramp = "viridis"
+scale = "linear"
+
+[[render]]
+property = "estado/capacidade_instalada"
+kind = "choropleth"
+ramp = "viridis"
+scale = "log"

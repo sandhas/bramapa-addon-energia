@@ -1,0 +1,116 @@
+uf,sigla,cnpj,outorga,fonte
+AC,Energisa AC,04065033000170,Concessão,pdd
+AL,Equatorial AL,12272084000100,Concessão,pdd
+AM,Amazonas Energia,02341467000120,Concessão,pdd
+AP,CEA Equatorial,05965546000109,Concessão,pdd
+BA,Neoenergia Coelba,15139629000194,Concessão,pdd
+CE,Enel CE,07047251000170,Concessão,pdd
+DF,Neoenergia Brasília,07522669000192,Concessão,pdd
+ES,EDP ES,28152650000171,Concessão,pdd
+ES,Santa Maria,27485069000109,Concessão,pdd
+GO,Chesp,01377555000110,Concessão,pdd
+GO,Enel GO,01543032000104,Concessão,pdd
+MA,Equatorial MA,06272793000184,Concessão,pdd
+MG,Cemig-D,06981180000116,Concessão,pdd
+MG,Dmed,23664303000104,Concessão,pdd
+MG,Energisa MG,19527639000158,Concessão,pdd
+MS,Energisa MS,15413826000150,Concessão,pdd
+MT,Energisa MT,03467321000199,Concessão,pdd
+PA,Equatorial PA,04895728000180,Concessão,pdd
+PB,Energisa Borborema,08826596000195,Concessão,pdd
+PB,Energisa PB,09095183000140,Concessão,pdd
+PE,Neoenergia Pernambuc,10835932000108,Concessão,pdd
+PI,Equatorial PI,06840748000189,Concessão,pdd
+PR,CFLO,77882504000107,Concessão,pdd
+PR,Castro-Dis,30460297000139,Permissão,pdd
+PR,Ceral-Dis,10532365000110,Permissão,pdd
+PR,Cocel,75805895000130,Concessão,pdd
+PR,Copel-Dis,04368898000106,Concessão,pdd
+PR,Forcel,79850574000109,Concessão,pdd
+RJ,Ceral Araruama,28610236000169,Permissão,pdd
+RJ,Cerci,27707397000102,Permissão,pdd
+RJ,Ceres,31465487000101,Permissão,pdd
+RJ,Enel RJ,33050071000158,Concessão,pdd
+RJ,Energisa Nova Fribur,33249046000106,Concessão,pdd
+RJ,Light,60444437000146,Concessão,pdd
+RN,Neoenergia Cosern,08324196000181,Concessão,pdd
+RO,Energisa RO,05914650000166,Concessão,pdd
+RR,Cerr,05938444000196,Concessão,pdd
+RR,Roraima Energia,02341470000144,Concessão,pdd
+RS,CEEE Equatorial,08467115000100,Concessão,pdd
+RS,Celetro,87776043000141,Permissão,pdd
+RS,Cerfox,97505838000179,Permissão,pdd
+RS,Ceriluz,87656989000174,Permissão,pdd
+RS,Cermissões,97081434000103,Permissão,pdd
+RS,Certaja Energia,97839922000129,Permissão,pdd
+RS,Certel Energia,09257558000121,Permissão,pdd
+RS,Certhil,98042963000152,Permissão,pdd
+RS,Cooperluz,95824322000161,Permissão,pdd
+RS,Coopernorte,88022918000182,Permissão,pdd
+RS,Coopersul,87462750000163,Permissão,pdd
+RS,Coprel,90660754000160,Permissão,pdd
+RS,Creluz-D,91950261000128,Permissão,pdd
+RS,Creral,89435598000155,Permissão,pdd
+RS,Demei,95289500000100,Concessão,pdd
+RS,Eletrocar,88446034000155,Concessão,pdd
+RS,Hidropan,91982348000187,Concessão,pdd
+RS,Mux Energia,97578090000134,Concessão,pdd
+RS,Nova Palma,89889604000144,Concessão,pdd
+RS,RGE,02016439000138,Concessão,pdd
+RS,RGE,02016440000162,Concessão,pdd
+SC,CODESAM,11810343000138,Permissão,fallback
+SC,Cegero,86444163000189,Permissão,pdd
+SC,Cejama,85665990000130,Permissão,pdd
+SC,Celesc-Dis,08336783000190,Concessão,pdd
+SC,Ceprag,78274610000170,Permissão,pdd
+SC,Ceral Anitápolis,75826404000138,Permissão,pdd
+SC,Ceraçá,09364804000144,Permissão,pdd
+SC,Cerbranorte,86433042000131,Permissão,pdd
+SC,Cerej,82574864000181,Permissão,pdd
+SC,Cergal,86439510000185,Permissão,pdd
+SC,Cergapa,01229747000189,Permissão,pdd
+SC,Cergral,86449170000173,Permissão,pdd
+SC,Cermoful,86533346000170,Permissão,pdd
+SC,Cerpalo,85318640000105,Permissão,pdd
+SC,Cersad,11615872000180,Permissão,pdd
+SC,Cersul,86512670000102,Permissão,pdd
+SC,Certrel,76583962000182,Permissão,pdd
+SC,Coopera,83646653000170,Permissão,pdd
+SC,Cooperaliança,83647990000181,Concessão,pdd
+SC,Coopercocal,86532348000145,Permissão,pdd
+SC,Coopermila,75568154000183,Permissão,pdd
+SC,Cooperzem,78829843000192,Permissão,pdd
+SC,Coorsel,86448057000173,Permissão,pdd
+SC,Dcelt,83855973000130,Concessão,pdd
+SC,Eflul,86531175000140,Concessão,pdd
+SC,João Cesa,86301124000122,Concessão,pdd
+SE,Cercos,13107842000199,Permissão,pdd
+SE,Energisa SE,13017462000163,Concessão,pdd
+SE,Sulgipe,13255658000196,Concessão,pdd
+SP,CLFM,52503802000118,Concessão,pdd
+SP,CLFSC,61116265000144,Concessão,pdd
+SP,CNEE,61416244000144,Concessão,pdd
+SP,CPEE,61015582000174,Concessão,pdd
+SP,CPFL Paulista,33050196000188,Concessão,pdd
+SP,CPFL Piratininga,04172213000151,Concessão,pdd
+SP,CPFL Santa Cruz,53859112000169,Concessão,pdd
+SP,CSPE,60855608000120,Concessão,pdd
+SP,Cedrap,60196987000193,Permissão,pdd
+SP,Cedri,50105865000190,Permissão,pdd
+SP,Cemirim,52777034000190,Permissão,pdd
+SP,Cerim,50235449000107,Permissão,pdd
+SP,Ceripa,49606312000132,Permissão,pdd
+SP,Ceris,57384943000182,Permissão,pdd
+SP,Cermc,52548732000114,Permissão,pdd
+SP,Cernhe,53176038000186,Permissão,pdd
+SP,Cerpro,44560381000139,Permissão,pdd
+SP,Cerrp,46598678000119,Permissão,pdd
+SP,Cervam,55188502000180,Permissão,pdd
+SP,Cetril,49313653000110,Permissão,pdd
+SP,EDEVP,07297359000111,Concessão,fallback
+SP,EDP SP,02302100000106,Concessão,pdd
+SP,EEB,60942281000123,Concessão,pdd
+SP,Enel SP,61695227000193,Concessão,pdd
+SP,Energisa Sul-Sudeste,07282377000120,Concessão,pdd
+SP,Neoenergia Elektro,02328280000197,Concessão,pdd
+TO,Energisa TO,25086034000171,Concessão,pdd
